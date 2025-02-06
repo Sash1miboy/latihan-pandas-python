@@ -1,0 +1,17 @@
+# Ignore Python virtual environment folders and files
+Lib/
+Include/
+Scripts/
+share/
+pyvenv.cfg
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore other temporary files
+*.log
+*.tmp
